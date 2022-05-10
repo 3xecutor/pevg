@@ -1,5 +1,5 @@
-👋 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=pevg) 
-### Hi there 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=pevg) 
+### Hi there 👋
 
 Hey, I'm Daniel.
 
