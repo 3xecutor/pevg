@@ -3,6 +3,6 @@
 
 Hey, I'm Daniel.
 
-❤️ with: React, React Native, JavaScript, Python, GoLang
+❤️ with: React, React Native, JavaScript, Python, C++, GoLang
 
 I am currently working on my pet-project.
